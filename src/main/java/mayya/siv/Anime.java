@@ -14,7 +14,7 @@ public class Anime {
         if (countOfEpisodesRemaining == 0) {
             System.out.println("Ура, аниме " + nameOfAnime + " просмотрено");
         } else {
-            System.out.println("Осталось просмотреть " + countOfEpisodesRemaining + " серий сериала " + nameOfAnime);
+            System.out.println("Осталось просмотреть " + countOfEpisodesRemaining + " эпизодов аниме " + nameOfAnime);
         }
     }
 }
